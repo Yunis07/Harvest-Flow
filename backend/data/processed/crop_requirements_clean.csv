@@ -1,0 +1,731 @@
+crop,ph_min,ph_max,nitrogen_level,phosphorus_level,potassium_level,temp_min,temp_max,rainfall_min,rainfall_max
+"sugarcane, bajra (pearl millet), wheat, cotton, groundnut, onion, soyabean,potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, bajra (pearl millet), wheat, sugarcane, maize, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, bajra (pearl millet), wheat, sugarcane, soybean, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, linseed, tur (pigeon pea), mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, cotton, soybean, jowar (sorghum), tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, bajra (pearl millet), wheat, groundnut, onion",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, linseed, mustard, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, linseed, mustard, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, banana, wheat, jowar (sorghum), groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, bajra (pearl millet), wheat, soybean, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, rice, groundnut, soybean, jowar (sorghum)",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, cotton, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+urban area; minimal agricultural activity,6.0,7.0,medium,medium,medium,18,32,50,150
+urban area; minimal agricultural activity,6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea), oranges",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, bajra (pearl millet), wheat, groundnut, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"grapes, onion, pomegranate, bajra (pearl millet), wheat, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, cotton, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, ragi (finger millet), vegetables, fruits like chikoo (sapota) and mango",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, jowar (sorghum), bajra (pearl millet), wheat, rice, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, ragi (finger millet), vegetables, fruits like mango and cashew",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, ragi (finger millet), cashew, mango (notably alphonso)",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, grapes, turmeric, jowar (sorghum), groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, jowar (sorghum), groundnut, rice, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, ragi (finger millet), cashew, mango, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"jowar (sorghum), bajra (pearl millet), sugarcane, wheat, pomegranate",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, ragi (finger millet), vegetables, fruits like mango and chikoo (sapota)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar (sorghum), wheat, tur (pigeon pea)",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, millets, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, jowar, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, chillies, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, sugarcane, tomato",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, banana, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coconut, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, paddy, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"chillies, cotton, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coconut, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cotton, bengal gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, red gram, sunflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, chillies, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"millets, paddy, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"tobacco, groundnut, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cashew, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, pulses, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, millets, cashew",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, paddy, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cotton, sunflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"barley, buckwheat, potato, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millets, pulses, large cardamom",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millet, orange, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, turmeric, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, ginger, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millets, pulses, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millet, ginger, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, ginger, millet",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millet, soybean, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, orange, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, ginger, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, banana, citrus fruits",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millets, fruits, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, banana, ginger, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, ginger, citrus",6.0,7.0,medium,medium,medium,18,32,50,150
+"millets, barley, potato, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millets, ginger, citrus fruits",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, ginger, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, sugarcane, ginger, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, ginger, turmeric, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, millets, pulses, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, pulses, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, millet, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millets, potato, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, jute, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, tea, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, tea, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, paddy, arecanut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, vegetables, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, jute, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, paddy, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, turmeric, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, paddy, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, jute, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, paddy, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"vegetables, fruits, flowers",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, turmeric, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, jute, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, jute, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, paddy, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, paddy, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, rubber, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, turmeric, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, jute",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, lentil",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, mustard, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"litchi, banana, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, lentil, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, lentil, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"jute, banana, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, jute, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, mustard, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, wheat, lentil",6.0,7.0,medium,medium,medium,18,32,50,150
+"litchi, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, mustard, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, vegetables, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"jute, maize, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, rice, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, maize, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, lentil",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, rice, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, niger",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, gram, lentil",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, millets, niger",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ragi, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, gram, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, niger, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, gram, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, niger, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ragi, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, lentil",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"millets, maize, tubers",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, gram, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, minor millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, cashew, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, coconut, arecanut",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, bajra, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cotton, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"tobacco, paddy, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, castor",6.0,7.0,medium,medium,medium,18,32,50,150
+"potato, bajra, cumin",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, banana, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, groundnut, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cotton, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, pulses, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, turmeric, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cumin, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, bajra, castor",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, mango, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cotton, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cotton, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"tobacco, paddy, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, castor, sesame",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"mustard, wheat, cumin",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, groundnut, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, banana, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, banana, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cumin, wheat, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, bajra, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, cotton, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, paddy, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, groundnut, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, banana, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, cashew, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra (pearl millet), wheat, cotton, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, bajra, mustard, cotton​",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, cotton, rice, mustard​",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, cotton, bajra, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, bajra, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard​",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, wheat, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, wheat, mustard, barley",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, maize, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard​",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, bajra, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, cotton, rice, mustard​",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, barley, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, rice, wheat, barley, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, maize, barley, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, maize, tea",6.0,7.0,medium,medium,medium,18,32,50,150
+"apples, peas, potatoes, barley",6.0,7.0,medium,medium,medium,18,32,50,150
+"apples, plums, pears, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"potatoes, peas, barley, buckwheat​",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"apples, wheat, barley, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, ginger, garlic​",6.0,7.0,medium,medium,medium,18,32,50,150
+"tomatoes, capsicum, ginger, beans",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, maize, sugarcane, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds​",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds​",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, coconut, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, coconut, rubber",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, coffee, cardamom",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, cashew, pepper",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, arecanut, rubber",6.0,7.0,medium,medium,medium,18,32,50,150
+"cashew, coconut, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, spices, rubber",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, banana, pepper",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, arecanut, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"rubber, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, rubber, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"coffee, tea, pepper",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, soybean, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, soybean, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, banana, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, and oilseeds",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, and mustard.",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, and pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, and maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, and pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, and soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, and pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, and gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, and pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, and pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, soybean, and wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, and paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, jowar",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"opium, garlic, soybean, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"mustard, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, soybean, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"opium, soybean, garlic",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, urad",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, lentil (masoor)",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, soybean, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, garlic",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, lentils",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, soybean, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, kodo millet",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, urad",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, kodo-kutki",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, groundnut, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, maize, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"ragi, mulberry (sericulture), vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"ragi, vegetables, flowers (like chrysanthemum)",6.0,7.0,medium,medium,medium,18,32,50,150
+"red gram (tur), soybean, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"ragi, turmeric, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"ragi, mulberry, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"coffee, pepper, arecanut",6.0,7.0,medium,medium,medium,18,32,50,150
+"ragi, groundnut, sunflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"arecanut, coconut, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, bengal gram, sunflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coffee, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, maize, jowar",6.0,7.0,medium,medium,medium,18,32,50,150
+"red gram (tur), jowar, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"coffee, pepper, cardamom",6.0,7.0,medium,medium,medium,18,32,50,150
+"vegetables (tomato), mulberry, ragi",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, sunflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, paddy, ragi",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ragi, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"ragi, vegetables, sericulture",6.0,7.0,medium,medium,medium,18,32,50,150
+"arecanut, paddy, pepper",6.0,7.0,medium,medium,medium,18,32,50,150
+"ragi, groundnut, sunflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coconut, arecanut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, arecanut, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, grape, jowar",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, red gram, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, pineapple, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, tapioca, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, potato, mustard, cabbage",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, potato, pea, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, vegetables (tomato, brinjal)",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, pea, cauliflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, tapioca, upland rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, upland rice, chilli",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, turmeric, tapioca, upland rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, pineapple, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, potato, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"oranges, pineapple, banana, upland rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, paddy, tapioca",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, pea, cauliflower",6.0,7.0,medium,medium,medium,18,32,50,150
+"potato, maize, cabbage, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"arecanut, cashewnut, pineapple, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"turmeric, rice, ginger, black pepper",6.0,7.0,medium,medium,medium,18,32,50,150
+"potato, ginger, rice, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"arecanut, banana, maize, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"pineapple, tomato, ginger, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"cashewnut, maize, rice, tapioca",6.0,7.0,medium,medium,medium,18,32,50,150
+"arecanut, banana, maize, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, potato, turmeric, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"cashewnut, arecanut, maize, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, turmeric, ginger, black pepper",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, potato, maize, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, pineapple, ginger, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"grape, rice, cabbage, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, turmeric, rice, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, rice, maize, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, pineapple, maize, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, tapioca, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, ginger, rice, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"turmeric, banana, maize, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, ginger, rice, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, rice, cabbage, tomato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, ginger, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millet, ginger, orange",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, ginger, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, yam, chilli",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, orange, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millet, ginger, orange",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"millet, maize, ginger, tapioca",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, ginger, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ginger, maize, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, millet, chilli, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, ginger, tomato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, yam, orange",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, chilli, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, maize, ginger, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, groundnut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, pulses, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, groundnut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, cotton, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, vegetables, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, pulses, oilseeds, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, vegetables, jute",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, vegetables, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ragi, ginger, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, cotton, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, green gram, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, vegetables, groundnut, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, pulses, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, turmeric, ragi, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, vegetables, groundnut, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, ginger, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, vegetables, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, finger millet (ragi), turmeric, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, turmeric, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, turmeric, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, vegetables, groundnut, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, turmeric, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ragi, turmeric, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, vegetables, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, pulses, groundnut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, wheat, paddy, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, wheat, paddy, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, sugarcane, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, cotton, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, sugarcane, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, vegetables, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, maize, paddy, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, cotton, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, barley, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, bajra, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, wheat, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, mustard, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, mustard, cumin",6.0,7.0,medium,medium,medium,18,32,50,150
+"mustard, wheat, bajra, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, maize, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"mustard, bajra, moong, cumin",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, bajra, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"mustard, wheat, bajra, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, paddy, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, wheat, mustard, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, bajra, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, gram, cumin",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, mustard, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, mustard, coriander",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, mustard, wheat, moong",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, bajra, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"soybean, wheat, mustard, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, mustard, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, mustard, gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, soybean, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, moong, mustard, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, mustard, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, gram, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, pulses, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"large cardamom, ginger, orange, buckwheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"large cardamom, ginger, maize, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"large cardamom, ginger, millets, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, large cardamom, vegetables, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"large cardamom, ginger, buckwheat, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"large cardamom, ginger, vegetables, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, groundnut, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, sugarcane, coconut, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, paddy, groundnut, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"millets, groundnut, mango, ragi",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, vegetables, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"turmeric, sugarcane, banana, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, groundnut, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, groundnut, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, coconut, tapioca, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, groundnut, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"mango, groundnut, ragi, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, cotton, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, coconut, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coconut, sugarcane, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"tapioca, turmeric, groundnut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, cotton, onion, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, millets, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, chillies, cotton, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"tapioca, turmeric, cotton, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, groundnut, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, paddy, turmeric, tapioca",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, coconut, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"banana, cotton, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, banana, sugarcane, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, banana, chillies, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, vegetables, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"turmeric, banana, vegetables, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, groundnut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, millets, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, coconut, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, groundnut, sugarcane, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, chillies, groundnut, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, turmeric, red gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, chillies, cotton, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, maize, paddy, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"urban farming: vegetables, flowers, greens",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, cotton, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, maize, red gram, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, chillies, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, maize, jowar",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, sugarcane, cotton",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, chillies, paddy, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, paddy, maize, soybean",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, paddy, cotton, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, paddy, maize, red gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, groundnut, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"vegetables, greens (urban/peri-urban)",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, pulses, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, paddy, pulses, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, red gram, chillies",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, groundnut, jowar, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, soybean, maize, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, turmeric, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, paddy, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"vegetables, paddy, pulses, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, cotton, paddy, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, maize, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, chillies, paddy, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"cotton, paddy, pulses, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, groundnut, millets",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, chillies, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, cotton, vegetables, red gram",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, pineapple, ginger, bamboo",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ginger, vegetables, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, pineapple, vegetables, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, pineapple, ginger, jackfruit",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, vegetables, pineapple, banana",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, ginger, pineapple, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, pineapple, orange, jackfruit, ginger, turmeric",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jackfruit, pineapple, coconut, banana, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, potato, guava, millet",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, bajra, mustard, sugarcane, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, gram, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, arhar (pigeon pea), mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, mango, rice, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, potato, mustard, arhar",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, maize, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, mustard, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, pulses, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, sugarcane, mustard, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, wheat, gram, mustard, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, potato, mentha (mint), sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, sugarcane, mustard, mango",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, pulses, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, rice, mustard, mango",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, bajra, mustard, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, potato, rice",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, lentil",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, wheat, groundnut, gram, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"bajra, wheat, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, mustard, arhar, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"potato, wheat, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, gram, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, potato, mustard, bajra, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, sugarcane, paddy, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, mustard, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, mustard, lentil, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard, lentils",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"gram, wheat, groundnut, mustard, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, paddy, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"potato, wheat, mustard, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"gram, wheat, mustard, groundnut, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, mustard, bajra, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"potato, wheat, mustard, rice, mentha (mint)",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, potato, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, bajra, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, gram, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, paddy, wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, gram, mustard, bajra, groundnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, rice, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, wheat, gram, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, potato, bajra",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, bajra, mustard, potato, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, mustard, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"rice, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, mustard, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"aonla (gooseberry), paddy, wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, rice, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, sugarcane, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, paddy, fruits",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, mustard, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, lentils",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, wheat, mustard, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, lentil",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, sugarcane",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, maize, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, wheat, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"mandua (finger millet), wheat, barley, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"mandua, wheat, barley, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"mandua, potato, wheat, barley",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, maize, mandua, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"basmati rice, wheat, sugarcane, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"sugarcane, paddy, wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, barley, mandua, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"mandua, wheat, barley, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, barley, mandua, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"mandua, wheat, barley, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mandua, barley, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"basmati rice, sugarcane, wheat, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, barley, mandua, potato",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, potato, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, potato, sesame",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, maize, potato, ginger",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, potato, jute, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"tea, paddy, jute, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, pulses, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"ginger, maize, cardamom, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"urban area; limited agriculture (terrace farming: vegetables, herbs)",6.0,7.0,medium,medium,medium,18,32,50,150
+"mango, paddy, jute, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard, mango",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, vegetables, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy (aman, boro), mustard, wheat",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, maize, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, jute, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, arecanut, banana, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coconut, banana, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coconut, banana, pineapple",6.0,7.0,medium,medium,medium,18,32,50,150
+"seasonal vegetables (tomato, brinjal, spinach), wheat, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, coconut, banana, cashew",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, paddy, coconut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"groundnut, paddy, coconut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"vegetables (okra, spinach), limited cultivation",6.0,7.0,medium,medium,medium,18,32,50,150
+"urban area, limited vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"urban area, minimal cultivation",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, seasonal vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, bajra, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"urban crops: spinach, fenugreek, small farms",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, vegetables (peri-urban farming)",6.0,7.0,medium,medium,medium,18,32,50,150
+"urban area, terrace gardening",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"mustard, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, paddy, maize, walnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, paddy, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, maize, paddy, walnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, paddy, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, rajma (kidney beans), walnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, saffron, paddy, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, maize, basmati rice, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, rajma (kidney beans), apple, walnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, paddy, maize, saffron",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, paddy, apple, walnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, pulses, walnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, saffron, paddy, maize",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, pulses, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, rajma, wheat, apple",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, mustard, pulses",6.0,7.0,medium,medium,medium,18,32,50,150
+"wheat, paddy, maize, mustard",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple (high yield), maize, paddy, walnut",6.0,7.0,medium,medium,medium,18,32,50,150
+"apple, saffron, vegetables, paddy",6.0,7.0,medium,medium,medium,18,32,50,150
+"maize, wheat, mustard, rajma",6.0,7.0,medium,medium,medium,18,32,50,150
+"barley, buckwheat, peas, apricot",6.0,7.0,medium,medium,medium,18,32,50,150
+"barley, buckwheat, mustard, peas",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, banana, breadfruit, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"coconut, banana, breadfruit, tuber crops",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, pulses, coconut",6.0,7.0,medium,medium,medium,18,32,50,150
+"paddy, sugarcane, groundnut, vegetables",6.0,7.0,medium,medium,medium,18,32,50,150

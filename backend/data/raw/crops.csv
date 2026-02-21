@@ -1,0 +1,16 @@
+crop,preferred_soil,min_ph,max_ph,water_need,season
+Rice,Alluvial,6.5,7.5,High,Kharif
+Maize,Red Loam,6.0,7.5,Medium,Kharif
+Wheat,Alluvial,6.5,7.5,Medium,Rabi
+Millets,Red Soil,5.5,7.0,Low,Kharif
+Cotton,Black Soil,7.0,8.0,Medium,Kharif
+Sugarcane,Alluvial,6.5,7.5,High,Annual
+Groundnut,Red Sandy Loam,6.0,7.0,Low,Kharif
+Soybean,Black Soil,6.5,7.5,Medium,Kharif
+Sunflower,Red Soil,6.0,7.5,Low,Rabi
+Pulses,Red Loam,6.0,7.0,Low,Rabi
+Banana,Alluvial,6.5,7.5,High,Annual
+Coconut,Coastal Alluvial,5.5,7.5,Medium,Annual
+Ragi,Red Soil,5.5,6.8,Low,Kharif
+Jowar,Black Soil,6.5,8.0,Low,Kharif
+Bajra,Sandy Soil,5.5,6.5,Low,Kharif
