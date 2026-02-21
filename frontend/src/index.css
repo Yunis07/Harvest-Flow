@@ -1,0 +1,355 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* HARVEST-LOG Design System
+   Eco-Professional Theme: Deep forest greens, warm amber accents, modern fintech aesthetics
+   All colors in HSL format
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap');
+
+@layer base {
+  :root {
+    /* Core Brand Colors */
+    --forest-deep: 152 54% 17%;
+    --forest-primary: 153 47% 30%;
+    --forest-light: 152 40% 45%;
+    --forest-muted: 150 20% 60%;
+    
+    /* Accent - Warm Amber/Gold */
+    --amber-primary: 30 70% 55%;
+    --amber-light: 42 78% 65%;
+    --amber-glow: 38 92% 50%;
+    
+    /* Neutrals */
+    --cream: 48 70% 96%;
+    --cream-muted: 44 40% 92%;
+    --slate-50: 210 20% 98%;
+    --slate-100: 214 25% 94%;
+    --slate-200: 213 27% 84%;
+    --slate-300: 212 20% 70%;
+    --slate-400: 215 16% 47%;
+    --slate-500: 215 19% 35%;
+    --slate-600: 215 25% 27%;
+    --slate-700: 217 33% 17%;
+    --slate-800: 222 47% 11%;
+    --slate-900: 224 71% 4%;
+    
+    /* Status Colors */
+    --success: 142 71% 45%;
+    --success-light: 142 76% 36%;
+    --warning: 38 92% 50%;
+    --error: 0 84% 60%;
+    --info: 199 89% 48%;
+    
+    /* Semantic Tokens */
+    --background: var(--cream);
+    --foreground: var(--slate-800);
+    
+    --card: 0 0% 100%;
+    --card-foreground: var(--slate-800);
+    
+    --popover: 0 0% 100%;
+    --popover-foreground: var(--slate-800);
+    
+    --primary: var(--forest-primary);
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: var(--cream-muted);
+    --secondary-foreground: var(--slate-700);
+    
+    --muted: var(--slate-100);
+    --muted-foreground: var(--slate-500);
+    
+    --accent: var(--amber-primary);
+    --accent-foreground: var(--slate-900);
+    
+    --destructive: var(--error);
+    --destructive-foreground: 0 0% 100%;
+    
+    --border: var(--slate-200);
+    --input: var(--slate-200);
+    --ring: var(--forest-primary);
+    
+    --radius: 0.75rem;
+    
+    /* Sidebar */
+    --sidebar-background: var(--forest-deep);
+    --sidebar-foreground: var(--cream);
+    --sidebar-primary: var(--amber-primary);
+    --sidebar-primary-foreground: var(--slate-900);
+    --sidebar-accent: 152 40% 25%;
+    --sidebar-accent-foreground: var(--cream);
+    --sidebar-border: 152 30% 25%;
+    --sidebar-ring: var(--amber-primary);
+    
+    /* Custom Gradients */
+    --gradient-forest: linear-gradient(135deg, hsl(var(--forest-deep)) 0%, hsl(var(--forest-primary)) 100%);
+    --gradient-amber: linear-gradient(135deg, hsl(var(--amber-primary)) 0%, hsl(var(--amber-light)) 100%);
+    --gradient-hero: linear-gradient(135deg, hsl(152 54% 17%) 0%, hsl(153 47% 30%) 50%, hsl(152 40% 45%) 100%);
+    --gradient-glass: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+    
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    --shadow-glow: 0 0 40px -10px hsl(var(--amber-glow) / 0.4);
+    --shadow-card: 0 4px 20px -2px rgb(0 0 0 / 0.08);
+  }
+
+  .dark {
+    --background: var(--slate-900);
+    --foreground: var(--slate-50);
+    
+    --card: var(--slate-800);
+    --card-foreground: var(--slate-50);
+    
+    --popover: var(--slate-800);
+    --popover-foreground: var(--slate-50);
+    
+    --primary: var(--forest-light);
+    --primary-foreground: var(--slate-900);
+    
+    --secondary: var(--slate-700);
+    --secondary-foreground: var(--slate-100);
+    
+    --muted: var(--slate-700);
+    --muted-foreground: var(--slate-400);
+    
+    --accent: var(--amber-primary);
+    --accent-foreground: var(--slate-900);
+    
+    --border: var(--slate-700);
+    --input: var(--slate-700);
+    --ring: var(--forest-light);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  body {
+    @apply bg-background text-foreground font-sans;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', 'Inter', system-ui, sans-serif;
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer components {
+  /* Glass morphism */
+  .glass {
+    @apply bg-white/80 backdrop-blur-xl border border-white/20;
+  }
+  
+  .glass-dark {
+    @apply bg-slate-900/80 backdrop-blur-xl border border-white/10;
+  }
+  
+  /* Gradient backgrounds */
+  .bg-gradient-forest {
+    background: var(--gradient-forest);
+  }
+  
+  .bg-gradient-amber {
+    background: var(--gradient-amber);
+  }
+  
+  .bg-gradient-hero {
+    background: var(--gradient-hero);
+  }
+  
+  /* Card variants */
+  .card-elevated {
+    @apply bg-card rounded-xl shadow-card border border-border/50;
+  }
+  
+  .card-interactive {
+    @apply card-elevated transition-all duration-300 hover:shadow-xl hover:-translate-y-1 hover:border-primary/20;
+  }
+  
+  /* Status indicators */
+  .status-dot {
+    @apply w-2.5 h-2.5 rounded-full;
+  }
+  
+  .status-dot-success {
+    @apply status-dot bg-green-500 shadow-[0_0_8px_rgba(34,197,94,0.5)];
+  }
+  
+  .status-dot-warning {
+    @apply status-dot bg-amber-500 shadow-[0_0_8px_rgba(245,158,11,0.5)];
+  }
+  
+  .status-dot-error {
+    @apply status-dot bg-red-500 shadow-[0_0_8px_rgba(239,68,68,0.5)];
+  }
+  
+  /* Role badges */
+  .role-badge {
+    @apply inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium uppercase tracking-wide;
+  }
+  
+  .role-badge-buyer {
+    @apply role-badge bg-blue-100 text-blue-700;
+  }
+  
+  .role-badge-seller {
+    @apply role-badge bg-emerald-100 text-emerald-700;
+  }
+  
+  .role-badge-transporter {
+    @apply role-badge bg-amber-100 text-amber-700;
+  }
+  
+  /* Map container */
+  .map-container {
+    @apply w-full h-full rounded-xl overflow-hidden border border-border/50 shadow-lg;
+  }
+  
+  /* Animated pulse for live indicators */
+  .pulse-live {
+    @apply relative;
+  }
+  
+  .pulse-live::before {
+    content: '';
+    @apply absolute inset-0 rounded-full bg-current animate-ping opacity-75;
+  }
+}
+
+@layer utilities {
+  /* Text gradients */
+  .text-gradient-forest {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, hsl(152 54% 17%) 0%, hsl(152 40% 45%) 100%);
+  }
+  
+  .text-gradient-amber {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, hsl(30 70% 55%) 0%, hsl(42 78% 65%) 100%);
+  }
+  
+  /* Scrollbar styling */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--slate-300)) transparent;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-track {
+    @apply bg-transparent;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply bg-slate-300 rounded-full;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    @apply bg-slate-400;
+  }
+  
+  /* Tap target minimum */
+  .tap-target {
+    @apply min-h-[44px] min-w-[44px];
+  }
+  
+  /* Animation utilities */
+  .animate-slide-up {
+    animation: slideUp 0.5s ease-out;
+  }
+  
+  .animate-slide-in-right {
+    animation: slideInRight 0.3s ease-out;
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-out;
+  }
+  
+  .animate-scale-in {
+    animation: scaleIn 0.2s ease-out;
+  }
+}
+
+/* Keyframes */
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Leaflet overrides */
+.leaflet-container {
+  @apply font-sans;
+  z-index: 1;
+}
+
+.leaflet-control-zoom {
+  @apply border-none shadow-lg !important;
+}
+
+.leaflet-control-zoom a {
+  @apply bg-white text-slate-700 border-none !important;
+}
+
+.leaflet-popup-content-wrapper {
+  @apply rounded-xl shadow-xl border border-border/50;
+}
+
+.leaflet-popup-tip {
+  @apply bg-white;
+}
