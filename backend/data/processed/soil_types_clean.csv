@@ -1,0 +1,10 @@
+soil_type,ph_min,ph_max,drainage
+Alluvial,6.5,7.5,Good
+Red Soil,6.0,7.0,Moderate
+Red Loam,6.3,7.2,Good
+Black Soil,7.0,8.0,Moderate
+Sandy Soil,5.5,6.5,Poor
+Sandy Loam,6.0,7.0,Good
+Clay Loam,6.8,7.8,Moderate
+Laterite,5.5,6.5,Moderate
+Coastal Alluvial,7.5,8.2,Good

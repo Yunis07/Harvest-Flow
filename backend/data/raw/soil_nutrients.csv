@@ -1,0 +1,16 @@
+soil_type,N,P,K
+Alluvial,90,42,43
+Coastal Alluvial,88,40,42
+Black Soil,85,40,45
+Red Soil,70,35,30
+Red Loam,72,36,32
+Laterite,60,30,25
+Clay,75,38,40
+Clay Loam,78,39,42
+Sandy Soil,50,25,20
+Sandy Loam,55,28,24
+Loamy Soil,80,45,50
+Peaty,65,28,22
+Silty,78,40,35
+Saline,55,20,15
+Alkaline,60,25,18

@@ -1,0 +1,41 @@
+region,soil_type,ph,drainage
+Chennai,Alluvial,7.2,Good
+Coimbatore,Red Loam,6.8,Good
+Madurai,Red Soil,6.5,Moderate
+Thanjavur,Alluvial,7.1,Excellent
+Salem,Black Soil,7.6,Moderate
+Erode,Red Loam,6.9,Good
+Tirunelveli,Sandy Loam,6.4,Good
+Trichy,Alluvial,7.0,Excellent
+Vellore,Red Soil,6.6,Moderate
+Thoothukudi,Sandy Soil,6.2,Poor
+Kancheepuram,Clay Loam,7.4,Moderate
+Villupuram,Red Loam,6.7,Good
+Nagapattinam,Coastal Alluvial,7.8,Good
+Cuddalore,Laterite,6.1,Moderate
+Krishnagiri,Red Loam,6.5,Good
+Delhi,Alluvial,7.5,Good
+Mumbai,Black Soil,7.3,Moderate
+Kolkata,Alluvial,7.0,Excellent
+Bangalore,Red Loam,6.8,Good
+Hyderabad,Red Soil,6.4,Moderate
+Pune,Black Soil,7.2,Moderate
+Nagpur,Black Soil,7.8,Moderate
+Jaipur,Sandy Soil,8.2,Good
+Ahmedabad,Loamy Soil,7.8,Moderate
+Lucknow,Alluvial,6.9,Moderate
+Bhopal,Black Soil,7.6,Good
+Patna,Alluvial,6.7,Poor
+Guwahati,Loamy Soil,5.8,Moderate
+Chandigarh,Loamy Soil,6.5,Good
+Raipur,Red Loam,6.3,Moderate
+Ranchi,Red Loam,5.9,Moderate
+Kochi,Coastal Alluvial,5.6,Poor
+Visakhapatnam,Coastal Alluvial,6.0,Moderate
+Surat,Black Soil,7.4,Moderate
+Indore,Black Soil,7.7,Good
+Thiruvananthapuram,Coastal Alluvial,5.5,Poor
+Vadodara,Loamy Soil,7.9,Moderate
+Ludhiana,Loamy Soil,6.6,Good
+Agra,Alluvial,7.3,Good
+Amritsar,Loamy Soil,6.4,Good
